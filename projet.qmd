@@ -18,13 +18,13 @@ format:
       \setstretch{2}
       \pagestyle{empty}
       \newcommand{\titretravail}{Titre}
-      \newcommand{\auteur}{Nom de l'auteur}
-      \newcommand{\auteurid}{Ni de l'auteur}
-      \newcommand{\cours}{Nom du cours}
-      \newcommand{\coursnumero}{Numero du cours}
-      \newcommand{\professeur}{Professeur}
-      \newcommand{\departement}{Departement de votre departement}
-      \newcommand{\faculte}{Faculte de votre faculte}
+      \newcommand{\auteur}{Pierre-Claver Grodya}
+      \newcommand{\auteurid}{20246527}
+      \newcommand{\cours}{Introduction aux mégadonnées en sciences sociales}
+      \newcommand{\coursnumero}{FAS1001}
+      \newcommand{\professeur}{Laurence Olivier M. Foisy}
+      \newcommand{\departement}{Département de science politique}
+      \newcommand{\faculte}{Faculte des arts et sciences}
       \newcommand{\lieu}{Montreal, Canada}
       \fancyhf{}
       \fancyhead[R]{\thepage}
